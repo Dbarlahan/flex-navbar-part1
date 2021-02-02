@@ -1,0 +1,17 @@
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center-box {
+    background-color: rgb(21,10,123);
+    height: 250px;
+    width: 900px;
+}
+
+.center-item {
+    background-color: rgb(245,228,187);
+    height: 80px;
+    width: 80px;
+}
